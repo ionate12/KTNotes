@@ -12,11 +12,11 @@ Code Sample - A Basic Application to `create`, `edit` and `view` your notes.
 
 ## Screenshots
 
-![](media/photo1)
+![](media/photo1.jpg)
 
-![](media/photo2)
+![](media/photo2.jpg)
 
-![](media/photo3)
+![](media/photo3.jpg)
 
 ## Technologies
 
