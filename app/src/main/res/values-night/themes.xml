@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+
+        <!--Follow the color rule on MD `https://material.io/develop/android/theming/color`-->
+        <item name="colorPrimary">@color/green_500</item>
+        <item name="colorPrimaryVariant">@color/green_800</item>
+        <item name="colorSecondary">@color/orange_800</item>
+        <item name="colorSecondaryVariant">@color/orange_800_dark</item>
+
+
+    </style>
+
+
+</resources>

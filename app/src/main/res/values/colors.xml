@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+
+
+    <color name="green_500">#8BC34A</color>
+    <color name="green_800">#558B2F</color>
+    <color name="orange_800">#F9A825</color>
+    <color name="orange_800_dark">#FF8F00</color>
+    <color name="ping_A100">#FF8A80</color>
+    <color name="ping_A200">#FFC7C3</color>
+
+
+    <color name="white">#FFFFFF</color>
+
+    <!--    Custom Colors place here-->
+
+</resources>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <!--        colorPrimaryDark represents top Status bar color-->
+        <item name="colorPrimaryDark">@android:color/black</item>
+        <!--Follow the color rule on MD `https://material.io/develop/android/theming/color`-->
+        <item name="colorPrimary">#FF8A65</item>
+        <item name="colorPrimaryVariant">#FF5722</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <item name="colorSecondary">#FFD180</item>
+        <item name="colorSecondaryVariant">#FF9E80</item>
+        <item name="colorSurface">#F8F5F4</item>
+
+<!--        Styles -->
+        <item name="bottomAppBarStyle">@style/Widget.MaterialComponents.BottomAppBar.PrimarySurface</item>
+        <item name="bottomSheetStyle">@style/Widget.MaterialComponents.BottomSheet.Modal</item>
+    </style>
+
+</resources>

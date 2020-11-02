@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">KTNotes</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="cd_create_notes">Create Notes</string>
+    <string name="date_created_label">Created Date:</string>
+    <string name="compose_edit_text_hint">Write some note...</string>
+    <string name="last_updated">Last Updated:</string>
+    <string name="sort_by_title_a_z">Sort By Title A - Z</string>
+    <string name="sort_by_title_z_a">Sort By Title Z - A</string>
+    <string name="sort_by_last_updated">Sort By Last Updated</string>
+</resources>

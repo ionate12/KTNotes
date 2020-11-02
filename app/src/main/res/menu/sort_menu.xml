@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/sortByTitleAZ"
+        android:title="@string/sort_by_title_a_z"/>
+    <item
+        android:id="@+id/sortByTitleZA"
+        android:title="@string/sort_by_title_z_a"/>
+
+    <item
+        android:id="@+id/sortByLastUpdated"
+        android:title="@string/sort_by_last_updated"/>
+
+</menu>
